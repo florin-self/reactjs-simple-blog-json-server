@@ -1,0 +1,28 @@
+header {
+    background: azure;
+}
+
+nav {
+    background: #222;
+    height: 10vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    display: block;
+    padding-left: 35px;
+    padding-right: 35px;
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    background: darkslategrey;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

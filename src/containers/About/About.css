@@ -1,0 +1,15 @@
+h1{
+    margin: 5rem;
+}
+div.c1{
+    margin-left: 5rem;
+    margin-right: 5rem;
+    margin-top: 1rem;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+div.c2{
+    margin: 5rem;
+    font-weight: bold;
+}

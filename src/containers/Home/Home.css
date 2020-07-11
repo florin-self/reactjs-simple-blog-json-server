@@ -1,0 +1,9 @@
+h1{
+    margin: 5rem;
+}
+p{
+    margin: 5rem;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
